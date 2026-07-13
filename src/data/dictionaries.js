@@ -26,6 +26,7 @@ export const MICELIUM_MAP = {
 
 export const VOCABULARYWORDS_MAP = {
     "Александр": "*******",
+    "Буква": "з🪾🫚🔌🪾👁️",
     "Глаз": "🚰🫛🧿🗜️🗜️",
     "Зашквар": "з🪼👁️🚰🧄р",
     "Звук": "з🥌🫚🔌",
