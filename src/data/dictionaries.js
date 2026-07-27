@@ -1,7 +1,6 @@
 export const MICELIUM_MAP = {
     "а": "👁",
     "б": "🥌",
-    "Букв": "з🪾🫚🔌🪾",
     "в": "🪾",
     "г": "🚰",
     "д": "🧄",
@@ -47,7 +46,8 @@ export const VOCABULARYWORDS_MAP = {
     "Ты": "р🎚️ы",
     "Хайп": "🧄р🧿з🧄",
     "Чувак": "ч🫚🪾ч🧿",
-    "Яблок": "з🥌🫛🧿🔌"
+    "Яблок": "з🥌🫛🧿🔌",
+    "Букв": "з🪾🫚🔌🪾"
 };
 
 export const REVERSE_MICELIUM_MAP = Object.fromEntries(
